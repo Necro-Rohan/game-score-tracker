@@ -9,6 +9,10 @@ A simple web-based app to track scores for multiplayer games in real-time. Great
 - Responsive design (mobile-friendly)
 - Retro UI using the **Cursed Timer ULiL** font
 
+## 🌐 Live Demo
+
+[Click here to try the Game Score Tracker](https://game-score-tracker-nu.vercel.app/)
+
 ## 🛠️ Tech Stack
 
 - HTML5
